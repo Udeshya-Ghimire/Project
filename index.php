@@ -26,14 +26,10 @@
           <div class="collapse navbar-collapse" id="Navbar">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item active"> <a class="nav-link" href="#"> <span class="fa fa-home fa-lg"></span> Home</a></li>
-              <li class="nav-item"> <a class="nav-link" href="./aboutus.html"> <span class="fa fa-info fa-lg"></span> About</a></li>
-              <li class="nav-item"> <a class="nav-link" href="#"><span class=" fa fa-list fa-lg"></span> Menu</a></li>
-              <li class="nav-item"> <a class="nav-link" href="./contactus.html"><span class="fa fa-address-card fa-lg"></span> Contact</a></li>
+              <li class="nav-item"> <a class="nav-link" href="./aboutus.php"> <span class="fa fa-info fa-lg"></span> About</a></li>
+              <li class="nav-item"> <a class="nav-link" href="./menu.php"><span class=" fa fa-list fa-lg"></span> Menu</a></li>
+              <li class="nav-item"> <a class="nav-link" href="./contactus.php"><span class="fa fa-address-card fa-lg"></span> Contact</a></li>
             </ul>
-            <span class="navbar-text">
-                <a id="login">
-                <span class="fa fa-sign-in"></span> Login</a>
-            </span>
           </div>
        </div>
  </nav>
@@ -299,9 +295,9 @@
                     <h5>Links</h5>
                     <ul class="list-unstyled">
                         <li><a href="#">Home</a></li>
-                        <li><a href="./aboutus.html">About</a></li>
-                        <li><a href="#">Menu</a></li>
-                        <li><a href="./contactus.html">Contact</a></li>
+                        <li><a href="./aboutus.php">About</a></li>
+                        <li><a href="./menu.php">Menu</a></li>
+                        <li><a href="./contactus.php">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-7 col-sm-5">
